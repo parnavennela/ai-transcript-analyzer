@@ -1,13 +1,23 @@
 # AI Transcript Analyzer
 
-AI-powered web app to analyze transcripts and generate summaries, keywords, and insights.
+AI-powered application that analyzes transcripts and generates summaries, keywords, and insights.
 
 ## Features
 - Transcript summarization
 - Keyword extraction
 - AI analysis
+- Clean interface
 
-## Tech Stack
+## Technologies Used
 - Python
 - Flask
 - OpenAI API
+- HTML/CSS
+
+## Screenshots
+(Add your uploaded screenshots here)
+
+## How to Run
+1. Clone repository
+2. Install requirements
+3. Run app.py
