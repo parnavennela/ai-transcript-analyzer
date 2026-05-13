@@ -21,3 +21,6 @@ AI-powered application that analyzes transcripts and generates summaries, keywor
 1. Clone repository
 2. Install requirements
 3. Run app.py
+```bash
+pip install -r requirements.txt
+python app.py
